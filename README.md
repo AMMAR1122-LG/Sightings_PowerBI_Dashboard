@@ -39,9 +39,7 @@ Built for **data storytelling**, **exploratory analysis**, and showcasing how ev
 
 > Glimpses into this out-of-this-world dashboard 👇
 
-![Sightings Overview](images/sightings-overview.png)
-
-
+![Sightings Overview](https://github.com/AMMAR1122-LG/Sightings_PowerBI_Dashboard/blob/main/images/Sightigs%20Dashboad.png)
 
 ---
 
@@ -62,7 +60,7 @@ This project showcases my ability to:
 
 I’m a detail-driven **data analyst** who loves turning raw and unconventional data into clear, beautiful insights using Power BI, Python, and storytelling techniques.
 
-🔗 **GitHub**: [YourGitHub](https://github.com/YourUsername)  
+🔗 **GitHub**: [YourGitHub](https://github.com/AMMAR1122-LG)
 🔗 **LinkedIn**: [YourLinkedIn]  
 🔗 **Portfolio**: [YourSite if any]
 
