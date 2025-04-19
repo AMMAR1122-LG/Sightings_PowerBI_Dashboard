@@ -60,9 +60,9 @@ This project showcases my ability to:
 
 I’m a detail-driven **data analyst** who loves turning raw and unconventional data into clear, beautiful insights using Power BI, Python, and storytelling techniques.
 
-🔗 **GitHub**: [YourGitHub](https://github.com/AMMAR1122-LG)
-🔗 **LinkedIn**: [YourLinkedIn]  
-🔗 **Portfolio**: [YourSite if any]
+🔗 **GitHub**: [https://github.com/AMMAR1122-LG]
+🔗 **LinkedIn**: [https://www.linkedin.com/in/muhammad-ammar-zahid-b91124268/]  
+
 
 ---
 
